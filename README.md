@@ -49,7 +49,7 @@ npm run dev -- --host 0.0.0.0
 
 1. Clone this project in the remote VM
 ```
-git clone https://github.com/verma-kunal/AWS-Session.git
+git clone https://github.com/Mohamed-Ismail-Dev/AWS-Session.git
 ```
 > For this project, we'll have to set up an Elastic IP Address for our EC2 & that would be our DOMAIN
 
